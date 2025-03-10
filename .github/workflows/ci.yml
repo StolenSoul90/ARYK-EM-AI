@@ -39,5 +39,5 @@ jobs:
         - name: Checkout Repository
           uses: actions/checkout@v3
 
-        - name: Deploy (For Now: Just Echo)
+        - name: Deploy 
           run: echo "Deployment step will be expanded in the future!"
